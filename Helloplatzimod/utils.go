@@ -1,0 +1,5 @@
+package helloplatzimod
+
+func helloWorld() {
+
+}
